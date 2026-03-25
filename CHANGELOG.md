@@ -1,6 +1,146 @@
 # Changelog
 All notable changes to this project will be documented in this file. This CHANGELOG roughly follows the guidelines from [www.keepachangelog.com](https://keepachangelog.com/en/1.0.0/).
 
+## [0.16.42](https://github.com/KaTeX/KaTeX/compare/v0.16.41...v0.16.42) (2026-03-24)
+
+
+### Features
+
+* \underbracket and \overbracket ([#4147](https://github.com/KaTeX/KaTeX/issues/4147)) ([5be9abb](https://github.com/KaTeX/KaTeX/commit/5be9abb0b4d687a2a196b8adf9b5b9deeb60f7bc))
+
+## [0.16.41](https://github.com/KaTeX/KaTeX/compare/v0.16.40...v0.16.41) (2026-03-24)
+
+
+### Bug Fixes
+
+* \sout in text mode ([#4173](https://github.com/KaTeX/KaTeX/issues/4173)) ([e748578](https://github.com/KaTeX/KaTeX/commit/e748578b63e07ad30d5e404e60b04e5e794c0a5a))
+
+## [0.16.40](https://github.com/KaTeX/KaTeX/compare/v0.16.39...v0.16.40) (2026-03-20)
+
+
+### Bug Fixes
+
+* **css:** specify position: relative for .katex ([#4170](https://github.com/KaTeX/KaTeX/issues/4170)) ([020f0d8](https://github.com/KaTeX/KaTeX/commit/020f0d89567d59229bac5fc8d8f5832a9508a85f))
+
+## [0.16.39](https://github.com/KaTeX/KaTeX/compare/v0.16.38...v0.16.39) (2026-03-19)
+
+
+### Bug Fixes
+
+* middle dot in text mode ([#4169](https://github.com/KaTeX/KaTeX/issues/4169)) ([edb45b0](https://github.com/KaTeX/KaTeX/commit/edb45b0b17c7b33349ce5142fe39156da05cb4d8)), closes [#3641](https://github.com/KaTeX/KaTeX/issues/3641)
+
+## [0.16.38](https://github.com/KaTeX/KaTeX/compare/v0.16.37...v0.16.38) (2026-03-08)
+
+
+### Bug Fixes
+
+* accent skew mixed with font specifiers ([#4159](https://github.com/KaTeX/KaTeX/issues/4159)) ([aea3375](https://github.com/KaTeX/KaTeX/commit/aea33758d6c98896017007d0244885301773856a)), closes [#4121](https://github.com/KaTeX/KaTeX/issues/4121)
+
+## [0.16.37](https://github.com/KaTeX/KaTeX/compare/v0.16.36...v0.16.37) (2026-03-06)
+
+
+### Bug Fixes
+
+* negative-width `\hphantom` and symmetric `\smash` ([#4153](https://github.com/KaTeX/KaTeX/issues/4153)) ([d4799ca](https://github.com/KaTeX/KaTeX/commit/d4799cae585d909e2a4e3dedbebdc2f142998ca9))
+
+## [0.16.36](https://github.com/KaTeX/KaTeX/compare/v0.16.35...v0.16.36) (2026-03-06)
+
+
+### Bug Fixes
+
+* contrib esm bloat ([#4157](https://github.com/KaTeX/KaTeX/issues/4157)) ([2bde1ad](https://github.com/KaTeX/KaTeX/commit/2bde1adab2a23f61519145923329c915b04d4778))
+
+## [0.16.35](https://github.com/KaTeX/KaTeX/compare/v0.16.34...v0.16.35) (2026-03-05)
+
+
+### Bug Fixes
+
+* version number regression ([#4155](https://github.com/KaTeX/KaTeX/issues/4155)) ([db26b73](https://github.com/KaTeX/KaTeX/commit/db26b733805f2d0d71e82596475b313c8706557e))
+
+## [0.16.34](https://github.com/KaTeX/KaTeX/compare/v0.16.33...v0.16.34) (2026-03-05)
+
+
+### Bug Fixes
+
+* emoji with variation selector ([#4151](https://github.com/KaTeX/KaTeX/issues/4151)) ([c2606e5](https://github.com/KaTeX/KaTeX/commit/c2606e5db91ae199ee1ff0c8c2f7f9f70fcf589b))
+
+## [0.16.33](https://github.com/KaTeX/KaTeX/compare/v0.16.32...v0.16.33) (2026-02-23)
+
+
+### Bug Fixes
+
+* **scss:** forward variables to fonts module ([#4146](https://github.com/KaTeX/KaTeX/issues/4146)) ([9349a64](https://github.com/KaTeX/KaTeX/commit/9349a64a051ca408da713baf061e32ade80ed22a))
+
+## [0.16.32](https://github.com/KaTeX/KaTeX/compare/v0.16.31...v0.16.32) (2026-02-22)
+
+
+### Bug Fixes
+
+* italic separation in \mathnormal ([#4143](https://github.com/KaTeX/KaTeX/issues/4143)) ([71305a0](https://github.com/KaTeX/KaTeX/commit/71305a05140ca6203092bfdc14f689168b26ab8c))
+
+## [0.16.31](https://github.com/KaTeX/KaTeX/compare/v0.16.30...v0.16.31) (2026-02-22)
+
+
+### Bug Fixes
+
+* `\*frac` sizing ([#4137](https://github.com/KaTeX/KaTeX/issues/4137)) ([ef51f18](https://github.com/KaTeX/KaTeX/commit/ef51f18ded4ab9ba54ba750f2866241c4676c41c))
+
+## [0.16.30](https://github.com/KaTeX/KaTeX/compare/v0.16.29...v0.16.30) (2026-02-22)
+
+
+### Bug Fixes
+
+* no line breaks after `\not` ([#4140](https://github.com/KaTeX/KaTeX/issues/4140)) ([2d1ba86](https://github.com/KaTeX/KaTeX/commit/2d1ba86143bd45540d5a773cfa456081318f3f33))
+
+## [0.16.29](https://github.com/KaTeX/KaTeX/compare/v0.16.28...v0.16.29) (2026-02-22)
+
+
+### Bug Fixes
+
+* `\imath` and other `\html@mathml` macros in arguments ([#4139](https://github.com/KaTeX/KaTeX/issues/4139)) ([a850cce](https://github.com/KaTeX/KaTeX/commit/a850cce7ccbf95a0b187313d1e54d8d40dfc7273))
+
+## [0.16.28](https://github.com/KaTeX/KaTeX/compare/v0.16.27...v0.16.28) (2026-01-25)
+
+
+### Bug Fixes
+
+* **type:** add missing types definition path to package.json ([#4125](https://github.com/KaTeX/KaTeX/issues/4125)) ([0ef8921](https://github.com/KaTeX/KaTeX/commit/0ef8921d189346b0ff8f84a77f7f552349b76893))
+
+## [0.16.27](https://github.com/KaTeX/KaTeX/compare/v0.16.26...v0.16.27) (2025-12-07)
+
+
+### Features
+
+* support equals sign and surrounding whitespace in \htmlData attribute values ([#4112](https://github.com/KaTeX/KaTeX/issues/4112)) ([c77aaec](https://github.com/KaTeX/KaTeX/commit/c77aaec00c766f5bb02e332a1dc416b82a65fe8f))
+
+## [0.16.26](https://github.com/KaTeX/KaTeX/compare/v0.16.25...v0.16.26) (2025-12-07)
+
+
+### Bug Fixes
+
+* \mathop followed by integral symbol ([6fbad18](https://github.com/KaTeX/KaTeX/commit/6fbad18857351e4d2a88ed3e3348bd76caad9be3))
+
+## [0.16.25](https://github.com/KaTeX/KaTeX/compare/v0.16.24...v0.16.25) (2025-10-13)
+
+
+### Features
+
+* **css:** provide `katex-swap.css` that uses `font-display: swap` ([#3940](https://github.com/KaTeX/KaTeX/issues/3940)) ([b3f9ce6](https://github.com/KaTeX/KaTeX/commit/b3f9ce691e89a52dea7ec8f10cc6ed4ddc8fc161)), closes [#2242](https://github.com/KaTeX/KaTeX/issues/2242)
+
+## [0.16.24](https://github.com/KaTeX/KaTeX/compare/v0.16.23...v0.16.24) (2025-10-12)
+
+
+### Features
+
+* support hex colors with alpha ([#4090](https://github.com/KaTeX/KaTeX/issues/4090)) ([8c9b306](https://github.com/KaTeX/KaTeX/commit/8c9b3063965acc0d6e6a0b6df4d051169de9e1a9)), closes [#4067](https://github.com/KaTeX/KaTeX/issues/4067) [#fA6](https://github.com/KaTeX/KaTeX/issues/fA6) [#fA6f1](https://github.com/KaTeX/KaTeX/issues/fA6f1)
+
+## [0.16.23](https://github.com/KaTeX/KaTeX/compare/v0.16.22...v0.16.23) (2025-10-03)
+
+
+### Bug Fixes
+
+* Support `\def` with arguments via `macros` option ([#4087](https://github.com/KaTeX/KaTeX/issues/4087)) ([80a8158](https://github.com/KaTeX/KaTeX/commit/80a815856a8c26d78b3669e9c05fff00efe82247))
+
 ## [0.16.22](https://github.com/KaTeX/KaTeX/compare/v0.16.21...v0.16.22) (2025-04-09)
 
 
